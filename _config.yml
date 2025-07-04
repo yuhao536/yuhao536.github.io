@@ -1,0 +1,20 @@
+title: Yuhao Li's Home
+description: Yuhao's personal homepage and blog.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: classic
+  nav_pages:
+    - research.md
+    - notes.md
+    - blogs.md
+    - links.md
