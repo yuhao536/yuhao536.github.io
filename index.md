@@ -10,7 +10,7 @@ layout: home
 
 - Email: [Yu-Hao.Li@outlook.com](mailto:Yu-Hao.Li@outlook.com)
 
-- <a href="https://github.com/yu-hao-Li"><i class="fa-brands fa-square-github"></i>&thinsp;GitHub</a> &ensp; <a href="https://scholar.google.com/citations?user=BdIoaMMAAAAJ"><i class="fa-brands fa-google-scholar"></i>&thinsp;Google Scholar</a> &ensp; <a href="https://orcid.org/0009-0000-6592-5475"><i class="fa-brands fa-orcid"></i>&thinsp;ORCID</a>
+- <i class="fa-brands fa-square-github"></i><a href="https://github.com/yu-hao-Li">&thinsp;GitHub</a> &ensp; <i class="fa-brands fa-google-scholar"></i><a href="https://scholar.google.com/citations?user=BdIoaMMAAAAJ">&thinsp;Google Scholar</a> &ensp; <i class="fa-brands fa-orcid"></i><a href="https://orcid.org/0009-0000-6592-5475">&thinsp;ORCID</a>
 
 ## Interest
 
