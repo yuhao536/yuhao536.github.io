@@ -103,10 +103,20 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Book Antiqua";
   color: $heading-color;
   font-weight: 500;
 }
 
+h2 {
+  @include relative-font-size(1.2);
+}
+h3 {
+  @include relative-font-size(1.1);
+}
+h4, h5, h6 {
+  @include relative-font-size(1);
+}
 
 
 /**
